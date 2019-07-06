@@ -1,4 +1,4 @@
-# studyLog
+# spring boot studyLog
 
 <p align="center">
 <img src="https://github.com/butomop/studyLog/blob/master/readme.PNG"><br>
